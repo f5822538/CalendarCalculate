@@ -1,0 +1,7 @@
+D:\GitHub\CalendarCalculate\CalendarCalculate\bin\Release\CalendarCalculate.exe
+D:\GitHub\CalendarCalculate\CalendarCalculate\bin\Release\CalendarCalculate.pdb
+D:\GitHub\CalendarCalculate\CalendarCalculate\obj\x86\Release\CalendarCalculate.Form1.resources
+D:\GitHub\CalendarCalculate\CalendarCalculate\obj\x86\Release\CalendarCalculate.Properties.Resources.resources
+D:\GitHub\CalendarCalculate\CalendarCalculate\obj\x86\Release\CalendarCalculate.csproj.GenerateResource.Cache
+D:\GitHub\CalendarCalculate\CalendarCalculate\obj\x86\Release\CalendarCalculate.exe
+D:\GitHub\CalendarCalculate\CalendarCalculate\obj\x86\Release\CalendarCalculate.pdb
